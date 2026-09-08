@@ -1,0 +1,22 @@
+# Notebook runtime
+jupyterlab
+ipykernel
+ipywidgets
+
+# Data, plotting, statistics, and machine learning
+numpy
+pandas
+matplotlib
+seaborn
+basemap
+networkx
+pingouin
+scipy
+statsmodels
+scikit-learn
+
+# Audio and linguistics
+nltk
+tqdm
+requests
+spacy>=3.8,<3.9
