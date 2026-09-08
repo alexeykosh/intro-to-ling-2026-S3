@@ -51,7 +51,6 @@ python -m pip install -r requirements.txt
 
 VS Code remembers the selected environment for the next time you open the notebook.
 
-If `.venv` does not appear, open the Command Palette (`Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS), run **Developer: Reload Window**, and try again.
 
 ## Schedule
 
