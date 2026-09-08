@@ -55,6 +55,6 @@ If `.venv` does not appear, open the Command Palette (`Ctrl+Shift+P` on Windows/
 
 ## Schedule
 
-| Week | Module | Date | Practicals link | Instructor |
+| Week | Module | Date | Practicals | Instructor |
 |------|--------|---------|---------|---------|
 | 1 | Morphology 1 | 09/09 | | AK |
