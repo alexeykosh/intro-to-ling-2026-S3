@@ -56,4 +56,4 @@ VS Code remembers the selected environment for the next time you open the notebo
 
 | Week | Module | Date | Link | Instructor |
 |------|--------|---------|---------|---------|
-| 1 | Morphology 1 | 09/09 | | AK |
+| 1 | Morphology 1 | 09/09 | [Linguistic puzzles 1](https://github.com/alexeykosh/intro-to-ling-2026-S3/blob/main/S2/TD2.pdf)  | AK |
