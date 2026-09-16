@@ -11,6 +11,14 @@
 
 This repository contains practicals for the course "Introduction to linguistics trough data science" taught at the CPES program at ENS-PSL during the Autumn semester of 2026-2027.
 
+## Schedule
+
+| Week | Module | Date | Link | Instructor |
+|------|--------|---------|---------|---------|
+| 1 | Morphology 1 | 09/09 | [Linguistic puzzles 1](https://github.com/alexeykosh/intro-to-ling-2026-S3/blob/main/S2/TD2.pdf)  | AK |
+| 2 | Morphology 2 | 16/09 | [Word-morpheme ratio](https://colab.research.google.com/drive/15MuHpyO8CA5Mev0kdXsXwkkiEzCAqxbw?usp=sharing)  | AK |
+
+
 ## Prerequisites  
 
 Students are expected to be familiar with the basics of Python programming language. The knowledge of the following libraries would be an asset: `pandas`, `numpy`, `matplotlib`. 
@@ -51,9 +59,3 @@ python -m pip install -r requirements.txt
 
 VS Code remembers the selected environment for the next time you open the notebook.
 
-
-## Schedule
-
-| Week | Module | Date | Link | Instructor |
-|------|--------|---------|---------|---------|
-| 1 | Morphology 1 | 09/09 | [Linguistic puzzles 1](https://github.com/alexeykosh/intro-to-ling-2026-S3/blob/main/S2/TD2.pdf)  | AK |
