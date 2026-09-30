@@ -15,8 +15,11 @@ This repository contains practicals for the course "Introduction to linguistics 
 
 | Week | Module | Date | Link | Instructor |
 |------|--------|---------|---------|---------|
-| 1 | Morphology 1 | 09/09 | [Linguistic puzzles 1](https://github.com/alexeykosh/intro-to-ling-2026-S3/blob/main/S2/TD2.pdf)  | AK |
-| 2 | Morphology 2 | 16/09 | [Word-morpheme ratio](https://colab.research.google.com/drive/15MuHpyO8CA5Mev0kdXsXwkkiEzCAqxbw?usp=sharing)  | AK |
+| 1 | Introduction | 02/09 | NA  | AK |
+| 2 | Morphology 1 | 09/09 | [Linguistic puzzles 1](https://github.com/alexeykosh/intro-to-ling-2026-S3/blob/main/S2/TD2.pdf)  | AK |
+| 3 | Morphology 2 | 16/09 | [Word-morpheme ratio](https://colab.research.google.com/drive/15MuHpyO8CA5Mev0kdXsXwkkiEzCAqxbw?usp=sharing)  | AK |
+| 4 | Phonetics & Phonology 1 | 23/09 | NA | MH |
+| 4 | Phonetics & Phonology 2 | 30/09 | [Sound physics, spectrograms and vowel formants](https://colab.research.google.com/drive/1VQ1vcvjCdLvIZd6jGctybVspdwpG7OKW?usp=sharing)  | AK |
 
 
 ## Prerequisites  
