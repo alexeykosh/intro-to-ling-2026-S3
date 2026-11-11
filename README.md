@@ -20,6 +20,9 @@ This repository contains practicals for the course "Introduction to linguistics 
 | 3 | Morphology 2 | 16/09 | [Word-morpheme ratio](https://colab.research.google.com/drive/15MuHpyO8CA5Mev0kdXsXwkkiEzCAqxbw?usp=sharing)  | AK |
 | 4 | Phonetics & Phonology 1 | 23/09 | NA | MH |
 | 4 | Phonetics & Phonology 2 | 30/09 | [Sound physics, spectrograms and vowel formants](https://colab.research.google.com/drive/1VQ1vcvjCdLvIZd6jGctybVspdwpG7OKW?usp=sharing)  | AK |
+| 6 | Syntax 1 | 05/10–09/10 | NA | MLS |
+| 7 | Syntaxe 2 | 12/10–16/10 | NA | MLS |
+| 9 | Semantics 1 | 09/11–13/11 | [Colexification of SNOW and ICE](https://colab.research.google.com/drive/135QQuiR7hs0OfqwM0xcwuDTjBul2wiub?usp=sharing) | AK |
 
 
 ## Prerequisites  
