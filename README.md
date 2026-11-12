@@ -11,6 +11,10 @@
 
 This repository contains practicals for the course "Introduction to linguistics through data science" taught at the CPES program at ENS-PSL during the Autumn semester of 2026-2027.
 
+## Wiki
+
+See the [course wiki](wiki/README.md) for the final project instructions and the list of linguistic databases.
+
 ## Schedule
 
 | Week | Module | Date | Link | Instructor |
