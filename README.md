@@ -26,7 +26,8 @@ See the [course wiki](wiki/README.md) for the final project instructions and the
 | 4 | Phonetics & Phonology 2 | 30/09 | [Sound physics, spectrograms and vowel formants](https://colab.research.google.com/drive/1VQ1vcvjCdLvIZd6jGctybVspdwpG7OKW?usp=sharing)  | AK |
 | 6 | Syntax 1 | 05/10–09/10 | NA | MLS |
 | 7 | Syntaxe 2 | 12/10–16/10 | NA | MLS |
-| 9 | Semantics 1 | 09/11–13/11 | [Colexification of SNOW and ICE](https://colab.research.google.com/drive/135QQuiR7hs0OfqwM0xcwuDTjBul2wiub?usp=sharing) | AK |
+| 9 | Semantics 1 | 11/11 | [Colexification of SNOW and ICE](https://colab.research.google.com/drive/135QQuiR7hs0OfqwM0xcwuDTjBul2wiub?usp=sharing) | AK |
+| 10 | Semantics 2 | 18/11 | [Communicative efficiency](https://colab.research.google.com/drive/1g0SdwktYRbCgcXSid3-1Vo1UEesOPwBU?usp=sharing) | AK | 
 
 
 ## Prerequisites  
